@@ -7,47 +7,37 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<YOUR_USERNAME>&label=PROFILE%20VIEWS&color=grey&style=flat" />
-  <img src="https://img.shields.io/github/followers/<YOUR_USERNAME>?label=FOLLOWERS&style=flat&color=4c9be8" />
   <img src="https://img.shields.io/github/stars/<YOUR_USERNAME>?label=STARS&style=flat&color=4c9be8" />
-  <a href="https://twitter.com/<YOUR_TWITTER>">
+  <a href="https://x.com/FMildrette">
     <img src="https://img.shields.io/twitter/follow/<YOUR_TWITTER>?label=FOLLOW&style=flat&color=1da1f2" />
   </a>
+  <a href="https://www.linkedin.com/in/mildred-fonka-678b91284"> LinkedIn </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌍 I'm from **<YOUR COUNTRY>**
-- 💻 I'm a **<YOUR JOB TITLE>**
-- 🌱 I'm currently learning **<WHAT YOU ARE LEARNING>**
-- 🌐 Personal website: **<YOUR WEBSITE>**
-- 💼 LinkedIn: **<YOUR LINKEDIN>**
-- 📫 Reach me at: **<YOUR EMAIL>**
+- 🌍 I'm from **Cameroon**
+- 💻 I'm a **Computer Eugineer presently in the rule of a FrontEnd App Developer**
+- 🌱 I'm currently learning **Python and polishing my Kotlin**
+- 🌐 Personal website: **https://mildrette.github.io/**
+- 💼 LinkedIn: **  <a href="https://www.linkedin.com/in/mildred-fonka-678b91284"> LinkedIn </a>
 
 ---
 
 ## 📞 Connect With Me
 
 <p>
-  <a href="<STACK_OVERFLOW_URL>">
-    <img src="https://img.shields.io/badge/STACK%20OVERFLOW-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-
-  <a href="<INSTAGRAM_URL>">
+<a href="https://www.instagram.com/mildrettez?igsh=Z2Jxd2kxMHVtenBv">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="<DISCORD_URL>">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-
-  <a href="<LINKEDIN_URL>">
+<a href="https://www.linkedin.com/in/mildred-fonka-678b91284">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="<TWITTER_URL>">
+   <a href="https://x.com/FMildrette">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
@@ -57,7 +47,7 @@
 ## 🛠️ Languages And Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,android,java,python,js,ts,html,css,react,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=kotlin,android,,python,js,ts,html,css,react,git,github" />
 </p>
 
 ---
