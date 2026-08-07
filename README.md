@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi 👋, I'm <YOUR NAME>
+  Hi 👋, I'm Mildred
 </h1>
 
 <h3 align="center">
-  A passionate <YOUR JOB TITLE> from <YOUR COUNTRY>
+  A passionate Computer Euginner from Cameroon
 </h3>
 
 <p align="center">
