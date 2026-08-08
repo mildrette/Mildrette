@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mildrette 👋
+# Hi, I'm Mildrette
 
 ### Computer Engineer · Frontend & Android App Developer
 
@@ -18,17 +18,17 @@
 I'm a **Computer Engineer from Cameroon** working as a **Frontend App Developer**, focused on **Android & Mobile Application Development**. I enjoy turning ideas into clean, functional apps and I'm always looking to sharpen my craft.
 
 ```
-🌍  Based in Cameroon
-💻  Computer Engineer & Frontend App Developer
-📱  Focused on Android & Mobile Application Development
-🧩  Working with Kotlin, Jetpack Compose & modern Android tooling
-🌱  Currently learning Python, polishing Kotlin
-🚀  Passionate about building useful, impactful software
+-  Based in Cameroon
+-  Computer Engineer & Frontend App Developer
+-  Focused on Android & Mobile Application Development
+-  Working with Kotlin, Jetpack Compose & modern Android tooling
+-  Currently learning Python, polishing Kotlin
+-  Passionate about building useful, impactful software
 ```
 
 <br>
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <table>
   <tr>
@@ -73,17 +73,17 @@ I'm a **Computer Engineer from Cameroon** working as a **Frontend App Developer*
 
 <br>
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
-- 📱  Building and improving Android applications
-- 🎨  Developing modern UIs with **Jetpack Compose**
-- 🔐  Exploring authentication and API integrations
-- 🧠  Strengthening my **Kotlin** development skills
-- 🐍  Learning **Python** for broader software development
+-   Building and improving Android applications
+-   Developing modern UIs with **Jetpack Compose**
+-   Exploring authentication and API integrations
+-   Strengthening my **Kotlin** development skills
+-   Learning **Python** for broader software development
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mildrette&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
@@ -96,15 +96,7 @@ I'm a **Computer Engineer from Cameroon** working as a **Frontend App Developer*
 
 <br>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mildrette/mildrette/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
-
-<br>
-
-## 📞 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://mildrette.github.io/">
@@ -122,7 +114,7 @@ I'm a **Computer Engineer from Cameroon** working as a **Frontend App Developer*
 
 <div align="center">
 
-### 💡 *"Building, learning, and improving — one line of code at a time."*
+### *"Building, learning, and improving — one line of code at a time."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mildrette&color=6C63FF&style=flat-square&label=Profile+Views)
 
