@@ -42,6 +42,8 @@ I'm a **Computer Engineer from Cameroon** working as a **Frontend App Developer*
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=android" width="48" height="48" /><br />
+
+      <img src="https://skillicons.dev/icons?i=android" width="48" height="48" />
       <sub><b>Android</b></sub>
     </td>
     <td align="center" width="90">
