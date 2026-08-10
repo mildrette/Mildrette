@@ -2,14 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C0A00,50:C1440E,100:FF6B35&height=220&section=header&text=MIMI&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%7C%20Kotlin%20%2B%20Jetpack%20Compose&descAlignY=58&descSize=20&animation=fadeIn" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=FF6B35&center=true&vCenter=true&width=650&lines=Building+one+screen+at+a+time.;Redesigning+legacy+Android+UI.;Learning+Kotlin+%2B+Python.;Showing+up%2C+every+single+day." alt="Typing SVG" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-C1440E?style=for-the-badge&labelColor=0D0000" />
 <img src="https://img.shields.io/badge/LOCATION-BAMENDA,_CAMEROON-C1440E?style=for-the-badge&labelColor=0D0000" />
 <img src="https://img.shields.io/badge/STREAK-DAILY_SESSIONS-C1440E?style=for-the-badge&labelColor=0D0000" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=FF6B35&center=true&vCenter=true&width=650&lines=Building+one+screen+at+a+time.;Redesigning+legacy+Android+UI.;Learning+Kotlin+%2B+Python.;Showing+up%2C+every+single+day." alt="Typing SVG" />
-<br><br>
 
 </div>
 
@@ -19,9 +18,18 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:C1440E,100:0D0000&height=3" />
+<div align="center">
+
+## &nbsp;THE MANIFESTO
+
+### *"I don't chase big leaps.*
+### *I chase the next line of code —*
+### *and the version of me who shows up tomorrow."*
+
+</div>
 
 <br>
+
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -52,7 +60,9 @@ mindset:     understand > copy
 
 <br>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:C1440E,100:0D0000&height=3" />
 
+<br>
 
 <div align="center">
 
@@ -93,12 +103,17 @@ mindset:     understand > copy
 ## &nbsp;THE NUMBERS
 
 <img src="https://streak-stats.demolab.com?user=mildrette&theme=tokyonight&hide_border=true&background=00000000&stroke=C1440E&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=mildrette&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=C1440E&text_color=ffffff" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mildrette&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=ffffff" height="180" /> -->
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=mildrette&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=mildrette&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=C1440E&text_color=ffffff" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mildrette&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=ffffff" height="180" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=mildrette&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:C1440E,100:0D0000&height=3" />
 
 <br>
 
@@ -113,19 +128,6 @@ mindset:     understand > copy
 [ ] Flask backend basics
 [ ] First open-source contribution
 ```
-
-</div>
-
-
-<br>
-
-<div align="center">
-
-## &nbsp;THE MANIFESTO
-
-### *"I don't chase big leaps.*
-### *I chase the next line of code —*
-### *and the version of me who shows up tomorrow."*
 
 </div>
 
