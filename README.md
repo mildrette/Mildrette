@@ -22,9 +22,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:C1440E,100:0D0000&height=3" />
 
 <br>
-
-<br>
-
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -52,6 +49,9 @@ mindset:     understand > copy
 </td>
 </tr>
 </table>
+
+<br>
+
 
 
 <div align="center">
