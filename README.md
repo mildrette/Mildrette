@@ -18,18 +18,6 @@
 
 <br>
 
-<div align="center">
-
-## &nbsp;THE MANIFESTO
-
-### *"I don't chase big leaps.*
-### *I chase the next line of code —*
-### *and the version of me who shows up tomorrow."*
-
-</div>
-
-<br>
-
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -103,11 +91,10 @@ mindset:     understand > copy
 ## &nbsp;THE NUMBERS
 
 <img src="https://streak-stats.demolab.com?user=mildrette&theme=tokyonight&hide_border=true&background=00000000&stroke=C1440E&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
-
 <img src="https://github-readme-stats.vercel.app/api?username=mildrette&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=C1440E&text_color=ffffff" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mildrette&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=ffffff" height="180" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=mildrette&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=mildrette&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" /> -->
 
 </div>
 
@@ -124,6 +111,19 @@ mindset:     understand > copy
 [ ] Flask backend basics
 [ ] First open-source contribution
 ```
+
+</div>
+
+
+<br>
+
+<div align="center">
+
+## &nbsp;THE MANIFESTO
+
+### *"I don't chase big leaps.*
+### *I chase the next line of code —*
+### *and the version of me who shows up tomorrow."*
 
 </div>
 
