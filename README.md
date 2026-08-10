@@ -71,7 +71,7 @@ and learning Kotlin and Python one small session at a time.
 ### activity
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=your-username-here&theme=tokyonight&hide_border=true&background=00000000&stroke=C1440E&ring=C1440E&fire=C1440E&currStreakLabel=C1440E" />
+<img src="https://streak-stats.demolab.com?user=your-username-here&theme=dark&hide_border=true&background=00000000&ring=C1440E&fire=C1440E" />
 </div>
 
 <br>
