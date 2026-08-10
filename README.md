@@ -79,7 +79,9 @@ mindset:     understand > copy
 <img src="https://img.shields.io/badge/Kotlin-C1440E?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Jetpack%20Compose-C1440E?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-C1440E?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Github-C1440E?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-C1440E?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-C1440E?style=for-the-badge&logo=androidstudio&logoColor=white" />
 
 <br><br>
 
