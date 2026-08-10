@@ -47,14 +47,23 @@ and learning Kotlin and Python one small session at a time.
 
 ### stack
 
+**Know well:**
 <p align="left">
+<img src="https://img.shields.io/badge/HTML5-C1440E?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-C1440E?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-C1440E?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-C1440E?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-C1440E?style=flat-square&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-C1440E?style=flat-square&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Jetpack%20Compose-C1440E?style=flat-square&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-C1440E?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-C1440E?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-C1440E?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-C1440E?style=flat-square&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-C1440E?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
+
+**Currently learning:**
+<p align="left">
+<img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=C1440E" />
+<img src="https://img.shields.io/badge/Flask-1a1a1a?style=flat-square&logo=flask&logoColor=C1440E" />
 </p>
 
 <br>
