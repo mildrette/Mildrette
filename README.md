@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0000,40:2C0A00,70:C1440E,100:FF6B35&height=260&section=header&text=MIMI&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=ANDROID%20DEVELOPER%20%E2%80%A2%20KOTLIN%20%E2%80%A2%20JETPACK%20COMPOSE&descAlignY=62&descSize=18&animation=twinkling" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0000,40:2C0A00,70:C1440E,100:FF6B35&height=260&section=header&text=MIMI&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=ANDROID%20DEVELOPER%20%E2%80%A2%20KOTLIN%20%E2%80%A2%20JETPACK%20COMPOSE&descAlignY=62&descSize=18&animation=twinkling" /> -->
+
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C0A00,50:C1440E,100:FF6B35&height=220&section=header&text=MIMI&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%7C%20Kotlin%20%2B%20Jetpack%20Compose&descAlignY=58&descSize=20&animation=fadeIn" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Building+one+screen+at+a+time;Redesigning+legacy+Android+UI;Learning+Kotlin+%2B+Python;Consistency+over+intensity" alt="Typing SVG" /> <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=FF6B35&center=true&vCenter=true&width=650&lines=Building+one+screen+at+a+time.;Redesigning+legacy+Android+UI.;Learning+Kotlin+%2B+Python.;Showing+up%2C+every+single+day." alt="Typing SVG" />
 
