@@ -1,116 +1,84 @@
-<div align="start">
+<div align="center">
 
-# Hi, I'm Mimi
-
-### Android Developer · Kotlin & Jetpack Compose
-
-*Building intuitive, reliable, and user-focused apps — one line of code at a time.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-your--link--here-C1440E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C1440E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C1440E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mimi;Android+Developer;Kotlin+%2B+Jetpack+Compose;Learning+every+single+day" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-## About Me
-
-I'm a **junior Android developer from Bamenda, Cameroon**, working on Kotlin and Jetpack Compose, currently maintaining and redesigning legacy Android apps while building my fundamentals from the ground up.
+```bash
+mimi@dev:~$ whoami
+```
 
 ```
--  Based in Bamenda, Northwest Region, Cameroon
--  Junior Android Developer, focused on UI/UX
--  Working with Kotlin & Jetpack Compose
--  Currently learning Python for backend development
--  Building projects to apply what I learn, one concept at a time
--  Passionate about consistency, growth, and useful software
+Junior Android Developer based in Bamenda, Cameroon.
+Maintaining legacy apps, redesigning UI in Jetpack Compose,
+and learning Kotlin and Python one small session at a time.
 ```
 
 <br>
 
-## Languages & Tools
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" /><br />
-      <sub><b>Kotlin</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" /><br />
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=android" width="48" height="48" /><br />
-      <sub><b>Android</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jetpackcompose" width="48" height="48" /><br />
-      <sub><b>Jetpack Compose</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br />
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" /><br />
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" /><br />
-      <sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /><br />
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" /><br />
-      <sub><b>Flask</b></sub>
-    </td>
-  </tr>
+### currently
+
+- Redesigning legacy Android UI in Compose
+- Building a Kotlin message-length checker app
+- Learning Python + Flask for backend basics
+- Practicing null safety, functions, data structures
+
+</td>
+<td width="50%" valign="top">
+
+### philosophy
+
+- Small daily sessions over big pushes
+- Understand it, don't just copy it
+- Real projects over theory alone
+- Consistency over intensity
+
+</td>
+</tr>
 </table>
 
 <br>
 
-## What I'm Working On
-
--   Redesigning UI screens in a legacy Android app with Jetpack Compose
--   Building a message-length checker app to practice Kotlin fundamentals
--   Strengthening Kotlin: loops, functions, data structures, null safety
--   Learning Python and Flask for backend development
--   Building daily habits and consistency as a developer
-
-<br>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username-here&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
-## Connect With Me
+### stack
 
 <p align="left">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-link-here">
-    <img src="https://img.shields.io/badge/LinkedIn-C1440E?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/your-username-here">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<img src="https://img.shields.io/badge/Kotlin-C1440E?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-C1440E?style=flat-square&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-C1440E?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-C1440E?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-C1440E?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-C1440E?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-C1440E?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
+
+<br>
+
+### activity
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=your-username-here&theme=tokyonight&hide_border=true&background=00000000&stroke=C1440E&ring=C1440E&fire=C1440E&currStreakLabel=C1440E" />
+</div>
 
 <br>
 
 <div align="center">
 
-### *"Building, learning, and improving — one line of code at a time."*
+```bash
+mimi@dev:~$ echo "building, learning, improving — one line at a time"
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username-here&color=C1440E&style=flat-square&label=Profile+Views)
+<p>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=C1440E" /></a>
+<a href="https://www.linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=C1440E" /></a>
+<a href="https://github.com/your-username-here"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=C1440E" /></a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username-here&color=C1440E&style=flat-square&label=profile+views)
 
 </div>
