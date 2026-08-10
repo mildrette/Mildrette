@@ -6,8 +6,9 @@
 <img src="https://img.shields.io/badge/LOCATION-BAMENDA,_CAMEROON-C1440E?style=for-the-badge&labelColor=0D0000" />
 <img src="https://img.shields.io/badge/STREAK-DAILY_SESSIONS-C1440E?style=for-the-badge&labelColor=0D0000" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=FF6B35&center=true&vCenter=true&width=650&lines=Building+one+screen+at+a+time.;Redesigning+legacy+Android+UI.;Learning+Kotlin+%2B+Python.;Showing+up%2C+every+single+day." alt="Typing SVG" />
+<br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=FF6B35&center=true&vCenter=true&width=650&lines=Building+one+screen+at+a+time.;Redesigning+legacy+Android+UI.;Learning+Kotlin+%2B+Python.;Showing+up%2C+every+single+day." alt="Typing SVG" />
 <br><br>
 
 </div>
