@@ -157,9 +157,7 @@ mindset:     understand > copy
 </div>
 
 <br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0000,40:2C0A00,70:C1440E,100:FF6B35&height=200&section=footer" />
-
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=FF6B35" /></a> <a href="https://www.linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=FF6B35" /></a> <a href="https://github.com/mildrette"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=FF6B35" /></a>
 <div align="center">
 
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-0D0000?style=for-the-badge&logo=googlechrome&logoColor=FF6B35" /></a>
