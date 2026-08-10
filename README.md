@@ -1,13 +1,13 @@
 <div align="start">
 
-# Hi, I'm Mildrette
+# Hi, I'm Mimi
 
-### Computer Engineer · Frontend & Android App Developer
+### Android Developer · Kotlin & Jetpack Compose
 
-*Building intuitive, reliable, and user-focused applications — one line of code at a time.*
+*Building intuitive, reliable, and user-focused apps — one line of code at a time.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mildrette.github.io-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mildrette.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-your--link--here-C1440E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C1440E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)
 
 </div>
 
@@ -15,15 +15,15 @@
 
 ## About Me
 
-I'm a **Computer Engineer from Cameroon** working as a **Frontend App Developer**, focused on **Android & Mobile Application Development**. I enjoy turning ideas into clean, functional apps and I'm always looking to sharpen my craft.
+I'm a **junior Android developer from Bamenda, Cameroon**, working on Kotlin and Jetpack Compose, currently maintaining and redesigning legacy Android apps while building my fundamentals from the ground up.
 
 ```
--  Based in Cameroon
--  Computer Engineer & Frontend App Developer
--  Focused on Android & Mobile Application Development
--  Working with Kotlin, Jetpack Compose & modern Android tooling
--  Currently learning Python, polishing Kotlin
--  Passionate about building useful, impactful software
+-  Based in Bamenda, Northwest Region, Cameroon
+-  Junior Android Developer, focused on UI/UX
+-  Working with Kotlin & Jetpack Compose
+-  Currently learning Python for backend development
+-  Building projects to apply what I learn, one concept at a time
+-  Passionate about consistency, growth, and useful software
 ```
 
 <br>
@@ -65,8 +65,8 @@ I'm a **Computer Engineer from Cameroon** working as a **Frontend App Developer*
       <sub><b>VS Code</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" /><br />
-      <sub><b>IntelliJ IDEA</b></sub>
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" /><br />
+      <sub><b>Flask</b></sub>
     </td>
   </tr>
 </table>
@@ -75,37 +75,32 @@ I'm a **Computer Engineer from Cameroon** working as a **Frontend App Developer*
 
 ## What I'm Working On
 
--   Building and improving Android applications
--   Developing modern UIs with **Jetpack Compose**
--   Exploring authentication and API integrations
--   Strengthening my **Kotlin** development skills
--   Learning **Python** for broader software development
+-   Redesigning UI screens in a legacy Android app with Jetpack Compose
+-   Building a message-length checker app to practice Kotlin fundamentals
+-   Strengthening Kotlin: loops, functions, data structures, null safety
+-   Learning Python and Flask for backend development
+-   Building daily habits and consistency as a developer
 
 <br>
 
 ## GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mildrette&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mildrette&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p> -->
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mildrette&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=your-username-here&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
 
-##  Connect With Me
+## Connect With Me
 
 <p align="left">
-  <a href="https://mildrette.github.io/">
+  <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/your-link-here">
+    <img src="https://img.shields.io/badge/LinkedIn-C1440E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/mildrette">
+  <a href="https://github.com/your-username-here">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -116,6 +111,6 @@ I'm a **Computer Engineer from Cameroon** working as a **Frontend App Developer*
 
 ### *"Building, learning, and improving — one line of code at a time."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=mildrette&color=6C63FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username-here&color=C1440E&style=flat-square&label=Profile+Views)
 
 </div>
