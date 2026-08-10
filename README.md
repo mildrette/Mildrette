@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C1440E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mildred;Front+End+Android+Developer;Kotlin+%2B+Jetpack+Compose;Learning+every+single+day" alt="Typing SVG" />
-
 </div>
 
 <br>
@@ -68,21 +66,17 @@ and learning Kotlin and Python one small session at a time.
 
 <br>
 
+### github stats
 
-## GitHub Stats
- 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mildrette&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mildrette&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p> -->
- 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mildrette&theme=tokyonight&hide_border=true" />
 </p>
- 
-<br>
 
-### activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mildrette&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mildrette&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
 <br>
 
 <div align="center">
@@ -94,9 +88,9 @@ mimi@dev:~$ echo "building, learning, improving — one line at a time"
 <p>
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=C1440E" /></a>
 <a href="https://www.linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=C1440E" /></a>
-<a href="https://github.com/your-username-here"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=C1440E" /></a>
+<a href="https://github.com/mildrette"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=C1440E" /></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username-here&color=C1440E&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=mildrette&color=C1440E&style=flat-square&label=profile+views)
 
 </div>
