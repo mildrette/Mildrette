@@ -68,12 +68,21 @@ and learning Kotlin and Python one small session at a time.
 
 <br>
 
+
+## GitHub Stats
+ 
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mildrette&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mildrette&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p> -->
+ 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mildrette&theme=tokyonight&hide_border=true" />
+</p>
+ 
+<br>
+
 ### activity
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=your-username-here&theme=dark&hide_border=true&background=00000000&ring=C1440E&fire=C1440E" />
-</div>
-
 <br>
 
 <div align="center">
