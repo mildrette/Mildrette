@@ -64,8 +64,11 @@
 <img src="https://github-profile-trophy.vercel.app/?username=mildrette&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
+<br>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:C1440E,100:0D0000&height=3" />
 
+<br>
 
 <div align="center">
 
@@ -107,11 +110,7 @@ mindset:     understand > copy
 </tr>
 </table>
 
-<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:C1440E,100:0D0000&height=3" />
-
-<br>
 
 <br>
 
