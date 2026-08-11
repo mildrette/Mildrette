@@ -20,52 +20,6 @@
 
 <div align="center">
 
-## &nbsp;THE MANIFESTO
-
-### *"I don't chase big leaps.*
-### *I chase the next line of code —*
-### *and the version of me who shows up tomorrow."*
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-## &nbsp;WHO I AM
-
-Junior Android developer maintaining and redesigning legacy apps, one Compose screen at a time. Deep in Kotlin fundamentals right now, taking my first real steps into Python backend development. I build slow, I build honest, and I understand every line before I move on.
-
-No shortcuts. No copy-paste without comprehension. Just steady, real progress.
-
-</td>
-<td width="45%" valign="top">
-
-## &nbsp;RIGHT NOW
-
-```yaml
-language:    Kotlin
-framework:   Jetpack Compose
-learning:    Python + Flask
-project:     SMS message checker
-habit:       small daily sessions
-mindset:     understand > copy
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:C1440E,100:0D0000&height=3" />
-
-<br>
-
-<div align="center">
-
 ## &nbsp;THE ARSENAL
 
 <img src="https://img.shields.io/badge/HTML5-0D0000?style=for-the-badge&logo=html5&logoColor=FF6B35" />
@@ -110,6 +64,54 @@ mindset:     understand > copy
 <img src="https://github-profile-trophy.vercel.app/?username=mildrette&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
+
+
+
+<div align="center">
+
+## &nbsp;THE MANIFESTO
+
+### *"I don't chase big leaps.*
+### *I chase the next line of code —*
+### *and the version of me who shows up tomorrow."*
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+## &nbsp;WHO I AM
+
+Junior Android developer maintaining and redesigning legacy apps, one Compose screen at a time. Deep in Kotlin fundamentals right now, taking my first real steps into Python backend development. I build slow, I build honest, and I understand every line before I move on.
+
+No shortcuts. No copy-paste without comprehension. Just steady, real progress.
+
+</td>
+<td width="45%" valign="top">
+
+## &nbsp;RIGHT NOW
+
+```yaml
+language:    Kotlin
+framework:   Jetpack Compose
+learning:    Python + Flask
+project:     SMS message checker
+habit:       small daily sessions
+mindset:     understand > copy
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:C1440E,100:0D0000&height=3" />
+
+<br>
 
 <br>
 
