@@ -30,7 +30,7 @@ Junior Android developer based in Bamenda, Cameroon.
 
 *I don't chase big leaps — I chase the next line of code, and the version of me who shows up tomorrow.*
 
-<br><br>
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:16213E,100:0F3460&height=100&section=footer" />
 
