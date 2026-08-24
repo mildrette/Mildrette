@@ -31,8 +31,6 @@ Junior Android developer based in Bamenda, Cameroon.
 
 </div>
 
-<br>
-
 <div align="center">
 
 *I don't chase big leaps — I chase the next line of code, and the version of me who shows up tomorrow.*
