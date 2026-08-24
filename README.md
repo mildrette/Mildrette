@@ -4,8 +4,7 @@
 
 <br>
 
-Junior Android developer based in Bamenda, Cameroon.<br>
-I maintain and redesign legacy Android apps, one screen at a time — currently deep in Kotlin and Jetpack Compose.
+Junior Android developer based in Bamenda, Cameroon.
 
 <img src="https://streak-stats.demolab.com?user=mildrette&theme=tokyonight&hide_border=true&background=00000000&stroke=0F3460&ring=16213E&fire=E94560&currStreakLabel=E94560" />
 
@@ -13,16 +12,14 @@ I maintain and redesign legacy Android apps, one screen at a time — currently 
 
 <br>
 
-## 🔭 What I'm doing
+## What I'm doing
 
-- Contributing to [RelaySMS-Android](https://github.com/smswithoutborders/RelaySMS-Android), an open-source project
 - Learning Jetpack Compose — navigation, state, layout fundamentals
-- Building a small message-length checker app to practice
-- Just starting to explore Python + Flask
+- Just starting to explore Python
 
 <br>
 
-## 🛠️ Tools I use
+## Tools I use
 
 <div align="left">
 
@@ -33,16 +30,6 @@ I maintain and redesign legacy Android apps, one screen at a time — currently 
 <img src="https://img.shields.io/badge/GitHub-0F3460?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
-
-<br>
-
-## 🗺️ Roadmap
-
-- [x] Redesign RelaySMS Android UI in Compose
-- [x] Kotlin fundamentals: variables → functions → null safety
-- [ ] Ship the message-length checker app
-- [ ] Flask backend basics
-- [ ] First independent open-source contribution
 
 <br>
 
