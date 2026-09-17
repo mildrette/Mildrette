@@ -27,7 +27,7 @@ Building my skills and working toward becoming an Android developer.
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=mildrette&theme=tokyonight&hide_border=true&background=00000000&stroke=0F3460&ring=16213E&fire=E94560&currStreakLabel=E94560" />
 <br/>
-*I don't chase big leaps — I chase the next line of code, and the version of me who shows up tomorrow.*
+**I don't chase big leaps — I chase the next line of code, and the version of me who shows up tomorrow.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:16213E,100:0F3460&height=100&section=footer" />
 </div>
