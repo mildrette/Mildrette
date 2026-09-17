@@ -1,9 +1,8 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:16213E,100:0F3460&height=180&section=header&text=Mildred%20Fonka&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Android%20Developer%20%C2%B7%20Kotlin%20%2B%20Jetpack%20Compose&descAlignY=65&descSize=16&animation=fadeIn" />
-<br>
+  
 Building my skills and working toward becoming an Android developer.
 </div>
-<br>
 
 ## What I'm doing
 
