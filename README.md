@@ -13,7 +13,6 @@ Building my skills and working toward becoming an Android developer.
 <br>
 
 ## Tools I use
-
 <div align="left">
   <img src="https://img.shields.io/badge/Kotlin-0F3460?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-0F3460?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
@@ -27,9 +26,6 @@ Building my skills and working toward becoming an Android developer.
   <img src="https://img.shields.io/badge/Git-0F3460?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-0F3460?style=for-the-badge&logo=github&logoColor=white" />
 </div>
-
-<br>
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=mildrette&theme=tokyonight&hide_border=true&background=00000000&stroke=0F3460&ring=16213E&fire=E94560&currStreakLabel=E94560" />
