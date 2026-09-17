@@ -3,7 +3,6 @@
   
 Building my skills and working toward becoming an Android developer.
 </div>
-
 ## What I'm doing
 
 - Learning Jetpack Compose — navigation, state, layout fundamentals
